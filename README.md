@@ -8,3 +8,4 @@
 - Install MVN and set on path
 - Install jdk8 and set JAVA_HOME as env variable
 - mvn spring-boot:run
+- localhost:8080/hello
